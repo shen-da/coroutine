@@ -1,0 +1,20 @@
+{
+  "name": "loner/coroutine",
+  "description": "协程组件",
+  "type": "library",
+  "require": {
+    "php": "^8.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "shen-da",
+      "email": "747472991@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Loner\\Coroutine\\": "src/"
+    }
+  }
+}
